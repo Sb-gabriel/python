@@ -1,0 +1,9 @@
+ram 1gb
+almacenamiento 8gb
+1 core gpu
+16 mb vram
+i3
+super+enter
+liveinst
+super+shift+2
+super+2

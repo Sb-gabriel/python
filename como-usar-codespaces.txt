@@ -1,0 +1,10 @@
+crear cuenta de github
+hacer el captcha
+crear un repositorio
+abrir el repositorio desde un codespaces vacio
+instalar la extension de python
+ejecutar desde la terminal el codigo fuente
+hacer commit usando el boton de abajo de la lupa en el panel izquierdo
+
+extension bisect para ver que extensiones están usando muchos recursos
+https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison?tab=readme-ov-file
